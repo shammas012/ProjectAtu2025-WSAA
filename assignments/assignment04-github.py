@@ -10,7 +10,20 @@ new_file_name = "assignment04Output.txt" # output should be saved here
 script_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(script_dir, actual_file_name)
 
+#Exception handling for reading file
 try:
+    #Readng the file
+    with open(file_path, "r") as file:
+        fileContent = file.read()
+except FileNotFoundError:
+    print(f"File not found: {file_path}")
+    exit(1)
+except Exception as e:
+    print(f"Issues with reading file {file_path} : {e}")
+    exit(1)
+
+try:
+    #Readng the file
     with open(file_path, "r") as file:
         fileContent = file.read()
 except FileNotFoundError:
