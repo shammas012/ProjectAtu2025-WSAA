@@ -22,6 +22,10 @@ except Exception as e:
     print(f"Issues with reading file {input_file_path} : {e}")
     exit(1)
 
+#Replace the word "Andrew" from the inputfile with developer's (my) own name. 
+fileContent = fileContent.replace("Andrew", replacement_user_name)
+
+#Exception handling for writing file
 try:
     #Writing the file
     with open(output_file_name, "w") as file:
