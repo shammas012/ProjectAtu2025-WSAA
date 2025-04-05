@@ -1,9 +1,8 @@
-import requests
+import subprocess
 import os
 
 actual_file_name = "sourcefile04.txt"  # name of original file
-replacement_user_name = "shammas"  # name that replaces the word "andrew"
-#output_file_name = "assignment04Output.txt" # output should be saved here
+replacement_user_name = "Shammas"  # name that replaces the word "andrew"
 
 #The application was throwing fileNotFound exception eventhough both of the .py file and .txt file are in the same locations
 #The below code gets the absolute path of the file
@@ -35,3 +34,8 @@ try:
 except Exception as e:
     print(f"Issues with writing file {input_file_path} : {e}")
     exit(1)
+
+#staging the amended file
+subprocess.run(["git", "add", input_file_path], check=True)
+#commit the file
+subprocess.run(["git", "commit", "-m", f"Replaced text Andrew with text Shammas"], check=True)
