@@ -1,0 +1,134 @@
+Portal Group,Request ID,Request Type,Priority (SLA)
+,45,Setup DDQ Relationship Request,P4-Low
+,6,Emailed request,P5-Very Low
+,46,DDQ Template Upload,P4-Low
+,21,CORR Password Reset Issue,P3-Middle
+,22,CORR Login Issue,P3-Middle
+,50,Checklist Action Owner Update,P3-Middle
+,53,Board Report Formatting Issue,P3-Middle
+,28,General Access Issue,P3-Middle
+3D,231,3D  - Application issue - General,P3-Middle
+3D,232,3D  - Data Issue - General,P3-Middle
+3D,234,3D - DDQ Data Update,P3-Middle
+3D,236,3D - Company Data Update,P3-Middle
+3D,229,3D - Application Outage,P1- Very High
+3D,230,3D - Application issue - High Impact,P2-High
+3D,233,3D  - User Account Issue,P3-Middle
+3D,235,3D - User Data Update,P2-High
+AMX,183,AMX - Create New Client,P5-Very Low
+AMX,189,AMX - Application down,P1- Very High
+AMX,191,AMX -  Data issue – High Impact,P2-High
+AMX,184,AMX - Client Mapping,P2-High
+AMX,177,AMX - Update User Account,P2-High
+AMX,180,AMX - Static Data upload,P5-Very Low
+AMX,181,AMX - Static Data Update,P3-Middle
+AMX,192,AMX - Other issues,P4-Low
+AMX,185,AMX - Client Configuration Update,P3-Middle
+AMX,190,AMX - General Data issue,P3-Middle
+AMX,186,AMX - Factsheet/QIR issue,P2-High
+AMX,187,AMX - Document Upload issue,P4-Low
+AMX,176,AMX - Create New User,P2-High
+AMX,178,AMX - Disable User Account,P2-High
+AMX,182,AMX - Data Information Request,P4-Low
+AMX,188,AMX - High Impact,P2-High
+APPIAN,220,Appian - User Permission issues,P2-High
+APPIAN,217,Appian - Update User Account,P2-High
+APPIAN,216,Appian - New User Setup,P2-High
+APPIAN,219,APPIAN - Data issue - General,P3-Middle
+APPIAN,223,Appian - Application Outage,P1- Very High
+APPIAN,221,Appian  - Application issue - General,P3-Middle
+APPIAN,218,Appian - Deactivate User Account,P2-High
+APPIAN,222,Appian - Application issue - High Impact,P2-High
+Agenda Minutes,131,Agenda Minutes Issue - General,P3-Middle
+Agenda Minutes,130,Agenda Minutes Issue - HIGH IMPACT,P2-High
+Board Reports,237,Update Board Report Template,P5-Very Low
+Board Reports,132,Board Reports Issue - CRITICAL and WIDESPREAD impact,P1- Very High
+Board Reports,110,Board Reports Issue - General,P3-Middle
+Board Reports,56,Board Reports Issue - HIGH impact,P2-High
+"Board Reports, Checklist",240,Oversight Enhancement Request,P5-Very Low
+"Carne Technology, User Access/Permission",172,Carne Technology - Temporary Access,P5-Very Low
+Checklist,105,Checklist Issue - General,P3-Middle
+Checklist,51,Delete Checklist Request,P4-Low
+Checklist,52,Checklist Issue - HIGH impact,P2-High
+Checklist,49,Checklist Launching Issue,P3-Middle
+Curator On-Premise Support (Not for Carne Requests),139,Checklist Issue,P3-Middle
+Curator On-Premise Support (Not for Carne Requests),138,Board Report Issue,P3-Middle
+Curator On-Premise Support (Not for Carne Requests),140,Other Technical Issue,P3-Middle
+Curator On-Premise Support (Not for Carne Requests),141,Other Request,P4-Low
+Curator On-Premise Support (Not for Carne Requests),136,NAV Data Issue,P3-Middle
+"Curator On-Premise Support (Not for Carne Requests), DDQ",137,DDQ Issue,P3-Middle
+DDQ,48,DDQ Issue - HIGH impact,P2-High
+DDQ,193,DD - Login Issue,P3-Middle
+DDQ,47,General DDQ Support Query,P3-Middle
+DDQ,108,DDQ Issue - General,P3-Middle
+DMS,242,DMS  - Application issue - General,P3-Middle
+DMS,241,DMS - Access Request,P2-High
+External Client Curator Support (Not for Carne Requests),125,External users - Other Request,P3-Middle
+External Client Curator Support (Not for Carne Requests),174,External Users - Team Update,P4-Low
+External Client Curator Support (Not for Carne Requests),117,External users - Update a board report template,P5-Very Low
+External Client Curator Support (Not for Carne Requests),114,External users - Deactivate a user,P2-High
+External Client Curator Support (Not for Carne Requests),164,External users - Update User Account,P2-High
+External Client Curator Support (Not for Carne Requests),126,External users - Other Issue,P3-Middle
+External Client Curator Support (Not for Carne Requests),112,External users - Update existing user's permissions,P3-Middle
+External Client Curator Support (Not for Carne Requests),173,External Users - New Team Setup,P5-Very Low
+External Client Curator Support (Not for Carne Requests),122,External users - DDQ - Add 'Answer DDQ' permission to a Delegate Contacts,P3-Middle
+External Client Curator Support (Not for Carne Requests),118,External users - Delete Fund/Sub-Funds,P4-Low
+External Client Curator Support (Not for Carne Requests),120,External users - NAV Data Issue,P3-Middle
+External Client Curator Support (Not for Carne Requests),115,External users - Checklist issue,P3-Middle
+External Client Curator Support (Not for Carne Requests),116,External users - Create new board report template,P5-Very Low
+External Client Curator Support (Not for Carne Requests),111,External users - Create new user,P2-High
+External Client Curator Support (Not for Carne Requests),194,External users - Board Report Issue,P3-Middle
+External Client Curator Support (Not for Carne Requests),123,External users - DDQ - Add Proxy Permission,P3-Middle
+External Client Curator Support (Not for Carne Requests),113,External users - Curator login issue,P2-High
+External Client Curator Support (Not for Carne Requests),121,External users - DDQ - Duplicate Contacts,P3-Middle
+External Client Curator Support (Not for Carne Requests),124,External users - DDQ Issue,P3-Middle
+Fund Data (Webhosting),102,Delete Fund Document from Carne Website,P4-Low
+Fund Data (Webhosting),103,Webhosting Funds Issue - General,P4-Low
+Fund Data (Webhosting),307,Webhosting - Set up Website,P5-Very Low
+GFD,145,EU Facilities Agent Issues - General,Not Set
+GFD,146,EU Facilities Agent - New Client Onboarding,P5-Very Low
+GFD,144,GFD Issue - General,P3-Middle
+GFD,143,GFD - Access Request,P3-Middle
+Information Request,31,Contact Data Information Request,P4-Low
+Information Request,33,NAV Data Information Request,P4-Low
+Information Request,30,Fund Data Information Request,P4-Low
+Information Request,32,User Access Data Information Request,P4-Low
+Information Request,35,TER Data Information Request,P4-Low
+Information Request,36,Other Data Request,P4-Low
+Information Request,34,Risk Data Information Request,P4-Low
+Information Request,213,General Data Information Request,P4-Low
+NAV/Risk File Reading/Loading,43,Historical NAV Upload,P5-Very Low
+NAV/Risk File Reading/Loading,129,File Setup - Other,P5-Very Low
+NAV/Risk File Reading/Loading,40,Update to Risk Reader,P4-Low
+NAV/Risk File Reading/Loading,39,Update to NAV Reader,P4-Low
+NAV/Risk File Reading/Loading,128,SFTP Setup - PUSH,P5-Very Low
+NAV/Risk File Reading/Loading,147,SFTP Issue - HIGH Impact,P2-High
+NAV/Risk File Reading/Loading,135,SFTP Setup - PULL,P5-Very Low
+NAV/Risk File Reading/Loading,41,NAV/Risk Reader/Data Issue - General,P3-Middle
+NAV/Risk File Reading/Loading,99,New NAV Reader,P5-Very Low
+NAV/Risk File Reading/Loading,38,New Risk Reader,P5-Very Low
+NAV/Risk File Reading/Loading,44,NAV/Risk Reader/Data Issue - HIGH Impact,P2-High
+"NAV/Risk File Reading/Loading, Other",165,SFTP Issue - General,P3-Middle
+Other,170,General Data Deletion Request,P4-Low
+Other,19,Other Issue - HIGH IMPACT,P2-High
+Other,18,Other Issue - General,P3-Middle
+Other,169,Delete Contact Request,P4-Low
+Other,133,Other Issue - CRITICAL or WIDESPREAD impact,P1- Very High
+Other,17,Other Support Request,P4-Low
+Static Data,238,Update Static Data - Fund/Sub-Fund/Share Class,P4-Low
+Static Data,168,Delete Fund/Sub-Fund/Share Class,P4-Low
+Static Data,215,Incident Log Issue - General,P3-Middle
+Static Data,239,Static Data Issue - General,P3-Middle
+"Static Data, DDQ",214,Update Contact,P4-Low
+"Static Data, Information Request",212,Request for Automated Reports,P5-Very Low
+User Access/Permission,195,DD - Unlock User,P2-High
+User Access/Permission,25,Deactivate User,P3-Middle
+User Access/Permission,175,Carne Technology - Permanent Curator Production access,P2-High
+User Access/Permission,134,Access/Permission Issue - General,P3-Middle
+User Access/Permission,26,New Team Setup,P5-Very Low
+User Access/Permission,171,User Account Recertification,P5-Very Low
+User Access/Permission,23,New User Setup,P5-Very Low
+User Access/Permission,27,Team Update,P4-Low
+User Access/Permission,142,GFD ONLY - User Access Setup,P4-Low
+User Access/Permission,24,User Permission Update,P4-Low
+User Access/Permission,29,Access/Permission Issue - HIGH impact,P2-High
