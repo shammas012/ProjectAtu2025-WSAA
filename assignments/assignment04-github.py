@@ -15,6 +15,7 @@ try:
     #Readng the file
     with open(input_file_path, "r") as file:
         fileContent = file.read()
+        file.close()
 except FileNotFoundError:
     print(f"File not found: {input_file_path}")
     exit(1)
@@ -29,10 +30,8 @@ fileContent = fileContent.replace("Andrew", replacement_user_name)
 try:
     #Writing the file
     with open(output_file_name, "w") as file:
-        fileContent = file.read()
-except FileNotFoundError:
-    print(f"File not found: {output_file_name}")
-    exit(1)
+        file.write(fileContent)
+        file.close()
 except Exception as e:
-    print(f"Issues with reading file {output_file_name} : {e}")
+    print(f"Issues with writing file {output_file_name} : {e}")
     exit(1)
